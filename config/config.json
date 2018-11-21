@@ -1,0 +1,14 @@
+{
+  "build": 0,
+  "dockerContainer": "container-name",
+  "dockerImage": "image-name",
+  "dockerUser": "your-dockerhub-user",
+  "dockerPass": "your-dockerhub-passw",
+  "dockerRepo": "your-dockerhub-repo",
+  "dockerHost": {
+    "host": "docker-host-ip",
+    "port": 22,
+    "username": "docker-host-user",
+    "privateKeyPath": "your-private-key-path"
+  }
+}

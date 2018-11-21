@@ -1,0 +1,5 @@
+node_modules
+dist/
+.idea/
+build-client/
+build-server/
