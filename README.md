@@ -27,7 +27,7 @@ Webpack 4 simple boilerplate for Server Side Rendering with Node, React 16, Reac
 
 # Instructions for deploy:
 - complete config/config.json
-- npm run deploy
+- `npm run deploy`
 
 # Based on:
 - https://github.com/miguelghz/webpack-simple-react-typescript
