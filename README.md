@@ -1,6 +1,6 @@
 # ssr-ts-node-react-docker
 
-Webpack 4 simple boilerplate for Server Side Rendering with Node, React 16, React Router 4 with Typescript 3, SASS and docker deployment.
+Webpack 4 simple boilerplate for Server Side Rendering with Node, React 16, React Router 4 with Typescript 3, SASS and docker deployment parametrized.
 
 ![Webpack simple](node-ts-react.png)
 
